@@ -1,5 +1,66 @@
-﻿<mockup version="4.4" minAllowVersion="4.3" ID="222A8620-150A-E711-B762-5CF9389DACA2" platform="MtMobile" defaultW="360" defaultH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="360" measureH="640">
-  <controls controlCount="0"/>
+﻿<mockup version="4.4" minAllowVersion="4.3" ID="222A8620-150A-E711-B762-5CF9389DACA2" platform="MtMobile" defaultW="360" defaultH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="360" measureH="640" clipArea="(0,0,0,0)">
+  <controls controlCount="2">
+    <control controlID="3ED47BB8-390A-E711-B762-5CF9389DACA2" controlTypeID="StatusBar(Android)" isShow="True" caption="Android+Status+Bar" x="0" y="0" w="360" h="20" measuredW="342" measuredH="20" zOrder="0" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4278190080" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{06DA7BB8-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{ECDA7BB8-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <ForegroundColor>4294967295</ForegroundColor>
+        <IsAutoTextColor>True</IsAutoTextColor>
+      </controlProperties>
+    </control>
+    <control controlID="98569ED2-390A-E711-B762-5CF9389DACA2" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="20" w="360" h="48" measuredW="120" measuredH="100" zOrder="1" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="4293848814" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{FA9896C9-000A-E711-B762-5CF9389DACA2}" coords="(0,0,360,48)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{EA9996C9-000A-E711-B762-5CF9389DACA2}" coords="(0,0,360,48)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="12" lineSpacingMultiple="1" textAlign="HaCenter" textVAlign="VaMiddle" textWordWrap="True" lineSpacing="15" textStyles="[]" useDefaultTextSize="True">
+          <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <shapeBorderType>SbRectangle</shapeBorderType>
+        <triangleType>TdZero</triangleType>
+        <dashMode>SdSolid</dashMode>
+        <rectangleBorderLeftVisible>True</rectangleBorderLeftVisible>
+        <rectangleBorderRightVisible>True</rectangleBorderRightVisible>
+        <rectangleBorderTopVisible>True</rectangleBorderTopVisible>
+        <rectangleBorderBottomVisible>True</rectangleBorderBottomVisible>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <thickness>1</thickness>
+      </controlProperties>
+    </control>
+  </controls>
   <param>
     <backgroundColor>4294967295</backgroundColor>
     <fontSize>0</fontSize>

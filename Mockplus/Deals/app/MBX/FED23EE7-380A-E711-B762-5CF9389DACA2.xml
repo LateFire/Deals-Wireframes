@@ -1,6 +1,6 @@
-﻿<mockup version="4.4" minAllowVersion="4.3" ID="CE011694-150A-E711-B762-5CF9389DACA2" platform="MtMobile" defaultW="360" defaultH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="360" measureH="640" clipArea="(0,0,0,0)">
-  <controls controlCount="2">
-    <control controlID="CCAC08B1-390A-E711-B762-5CF9389DACA2" controlTypeID="StatusBar(Android)" isShow="True" caption="Android+Status+Bar" x="0" y="0" w="360" h="20" measuredW="342" measuredH="20" zOrder="0" locked="False" sizeLocked="False">
+﻿<mockup version="4.4" minAllowVersion="4.3" ID="FED23EE7-380A-E711-B762-5CF9389DACA2" platform="MtMobile" defaultW="360" defaultH="640" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="360" measureH="640" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="B212F23F-390A-E711-B762-5CF9389DACA2" controlTypeID="StatusBar(Android)" isShow="True" caption="Android+Status+Bar" x="0" y="0" w="360" h="20" measuredW="342" measuredH="20" zOrder="0" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4278190080" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -10,12 +10,12 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
-            <area shape="0" alt="" ID="{80B208B1-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
+            <area shape="0" alt="" ID="{3418F23F-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{52B308B1-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
+            <area shape="0" alt="" ID="{1019F23F-390A-E711-B762-5CF9389DACA2}" coords="(0,0,360,20)"/>
             <events title=""/>
           </entry>
         </interactiveData>
@@ -23,7 +23,7 @@
         <IsAutoTextColor>True</IsAutoTextColor>
       </controlProperties>
     </control>
-    <control controlID="AC989FC6-390A-E711-B762-5CF9389DACA2" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="20" w="360" h="48" measuredW="120" measuredH="100" zOrder="1" locked="False" sizeLocked="False">
+    <control controlID="BCCAC144-390A-E711-B762-5CF9389DACA2" controlTypeID="Shape" isShow="True" caption="Shape" x="0" y="20" w="360" h="48" measuredW="120" measuredH="100" zOrder="1" locked="False" sizeLocked="False">
       <controlProperties>
         <basic color="4293848814" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
@@ -58,6 +58,34 @@
         <radius>0</radius>
         <radiusIsPercent>False</radiusIsPercent>
         <thickness>1</thickness>
+      </controlProperties>
+    </control>
+    <control controlID="8C36B047-390A-E711-B762-5CF9389DACA2" controlTypeID="Label" isShow="True" caption="Label" x="10" y="34" w="166" h="21" measuredW="0" measuredH="0" zOrder="2" locked="False" sizeLocked="False">
+      <controlProperties>
+        <basic color="0" borderVisible="True" borderColor="4284900966" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+          <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="Link">
+            <area shape="0" alt="" ID="{C2972C17-010A-E711-B762-5CF9389DACA2}" coords="(0,0,166,21)"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area shape="0" alt="" ID="{94982C17-010A-E711-B762-5CF9389DACA2}" coords="(0,0,166,21)"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet textColor="4278190080" textSize="18" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="21" textStyles="[fsBold]" useDefaultTextSize="False">
+          <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
+          <text>My+Deals+Statistics</text>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
       </controlProperties>
     </control>
   </controls>

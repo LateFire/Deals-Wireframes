@@ -7,50 +7,59 @@
   </params>
   <modules>
     <module name="Misc" ID="904A9743-160A-E711-B762-5CF9389DACA2" expanded="True" status="psWhite">
-      <page name="Login" ID="3AFF3E2F-FC09-E711-B762-5CF9389DACA2" expanded="True" code="TLKAtqJYGm" thumbCode="TLKAtqJYGm" status="psWhite"/>
-      <page name="Set Up Mobile Payment" ID="622D1527-0A0A-E711-B762-5CF9389DACA2" expanded="True" code="V8u6DBp2iy" thumbCode="V8u6DBp2iy" status="psWhite"/>
+      <page name="Login" ID="3AFF3E2F-FC09-E711-B762-5CF9389DACA2" expanded="False" code="TLKAtqJYGm" thumbCode="TLKAtqJYGm" status="psWhite"/>
+      <page name="Set Up Mobile Payment" ID="622D1527-0A0A-E711-B762-5CF9389DACA2" expanded="True" code="3ZlzWyDKxz" thumbCode="3ZlzWyDKxz" isLastOpen="True" status="psWhite"/>
     </module>
     <module name="Private User" ID="BA1DD9DC-150A-E711-B762-5CF9389DACA2" expanded="True" status="psWhite">
-      <page name="Home Private User" ID="74421893-FB09-E711-B762-5CF9389DACA2" expanded="True" code="Nq8IFPn2a3" thumbCode="Nq8IFPn2a3" isLastOpen="True" status="psWhite">
+      <page name="Home Private User" ID="74421893-FB09-E711-B762-5CF9389DACA2" expanded="False" code="Nq8IFPn2a3" thumbCode="Nq8IFPn2a3" status="psWhite">
         <images>
           <image key="8770E09BE40E5ECBEF9E7EBB8184A2AE.svg"/>
           <image key="920791B8B3A3EAC0054C2988DA222B44.svg"/>
           <image key="5463F575AD3E0B581BBADFD6C3C203DF.svg"/>
         </images>
       </page>
-      <page name="Edit Private User" ID="6A20BDE8-FF09-E711-B762-5CF9389DACA2" expanded="False" code="Me7YrmHJfS" thumbCode="Me7YrmHJfS" status="psWhite">
+      <page name="Edit Private User" ID="6A20BDE8-FF09-E711-B762-5CF9389DACA2" expanded="True" code="5pv9FIxsPQ" thumbCode="5pv9FIxsPQ" status="psWhite">
         <images>
           <image key="D95E480717200F895E41DB6E5B869596.svg"/>
         </images>
       </page>
-      <page name="Show Private User" ID="68C1AF7A-180A-E711-B762-5CF9389DACA2" expanded="True" code="ZWfE8Lw5MU" thumbCode="ZWfE8Lw5MU" status="psWhite">
+      <page name="Show Private User" ID="68C1AF7A-180A-E711-B762-5CF9389DACA2" expanded="True" code="ZEeX2Eim6s" thumbCode="ZEeX2Eim6s" status="psWhite">
         <images>
           <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+          <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
         </images>
       </page>
+      <page name="My Active Deals" ID="68106ACE-380A-E711-B762-5CF9389DACA2" expanded="False" code="AJqICwutPf" thumbCode="AJqICwutPf" status="psWhite"/>
+      <page name="My Deals Statistics" ID="FED23EE7-380A-E711-B762-5CF9389DACA2" expanded="False" code="4vc4BpgfEO" thumbCode="4vc4BpgfEO" status="psWhite"/>
     </module>
     <module name="Business User" ID="F830870F-160A-E711-B762-5CF9389DACA2" expanded="True" status="psWhite">
-      <page name="Home Business User" ID="222A8620-150A-E711-B762-5CF9389DACA2" expanded="False" code="Sn1O7m1D6X" thumbCode="Sn1O7m1D6X" status="psWhite"/>
-      <page name="Edit Business User" ID="4023C25E-150A-E711-B762-5CF9389DACA2" expanded="False" code="MjxoWt7VaO" thumbCode="MjxoWt7VaO" status="psWhite"/>
-      <page name="Show Business User" ID="A0C0A038-190A-E711-B762-5CF9389DACA2" expanded="False" code="rncMIqzWmE" thumbCode="rncMIqzWmE" status="psWhite">
+      <page name="Home Business User" ID="222A8620-150A-E711-B762-5CF9389DACA2" expanded="True" code="cN1YqA3xW4" thumbCode="cN1YqA3xW4" status="psWhite"/>
+      <page name="Show Business User" ID="A0C0A038-190A-E711-B762-5CF9389DACA2" expanded="False" code="5SdaIpUb8x" thumbCode="5SdaIpUb8x" status="psWhite">
+        <images>
+          <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+          <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
+        </images>
+      </page>
+      <page name="Edit Business User" ID="620B6D31-2E0A-E711-B762-5CF9389DACA2" expanded="True" code="ec33qSdZaY" thumbCode="ec33qSdZaY" status="psWhite">
         <images>
           <image key="D95E480717200F895E41DB6E5B869596.svg"/>
         </images>
       </page>
     </module>
     <module name="Deal" ID="0E1D3DC6-150A-E711-B762-5CF9389DACA2" expanded="True" status="psWhite">
-      <page name="Create Deal" ID="B8B47088-150A-E711-B762-5CF9389DACA2" expanded="True" code="IJHjgKILEp" thumbCode="IJHjgKILEp" status="psWhite"/>
-      <page name="Show Deal" ID="3A2B64DB-030A-E711-B762-5CF9389DACA2" expanded="True" code="opxJUGPnpv" thumbCode="opxJUGPnpv" status="psWhite">
+      <page name="Create Deal" ID="B8B47088-150A-E711-B762-5CF9389DACA2" expanded="True" code="yVikxbsrWZ" thumbCode="yVikxbsrWZ" status="psWhite"/>
+      <page name="Show Deal" ID="3A2B64DB-030A-E711-B762-5CF9389DACA2" expanded="True" code="GtqI2xOW78" thumbCode="GtqI2xOW78" status="psWhite">
         <images>
           <image key="D95E480717200F895E41DB6E5B869596.svg"/>
         </images>
       </page>
-      <page name="Edit Deal" ID="CE011694-150A-E711-B762-5CF9389DACA2" expanded="True" code="CYPJg1BzHc" thumbCode="CYPJg1BzHc" status="psWhite"/>
+      <page name="Edit Deal" ID="CE011694-150A-E711-B762-5CF9389DACA2" expanded="True" code="7sbWhawQYR" thumbCode="7sbWhawQYR" status="psWhite"/>
     </module>
   </modules>
   <masters/>
   <images>
     <image key="5463F575AD3E0B581BBADFD6C3C203DF.svg"/>
+    <image key="69A4D1E5CE13432C6A4F579026917C6A.svg"/>
     <image key="8770E09BE40E5ECBEF9E7EBB8184A2AE.svg"/>
     <image key="920791B8B3A3EAC0054C2988DA222B44.svg"/>
     <image key="D95E480717200F895E41DB6E5B869596.svg"/>

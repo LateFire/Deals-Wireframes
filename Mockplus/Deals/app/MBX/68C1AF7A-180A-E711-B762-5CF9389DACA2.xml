@@ -335,9 +335,9 @@
         <textPadding>0</textPadding>
       </controlProperties>
     </control>
-    <control controlID="50E56585-190A-E711-B762-5CF9389DACA2" controlTypeID="Label" isShow="True" caption="Label" x="283" y="613" w="70" h="17" measuredW="0" measuredH="0" zOrder="12" locked="False" sizeLocked="False">
+    <control controlID="5EB98280-380A-E711-B762-5CF9389DACA2" controlTypeID="Icon" isShow="True" caption="Icon" x="316" y="30" w="24" h="24" measuredW="32" measuredH="32" zOrder="12" locked="False" sizeLocked="False">
       <controlProperties>
-        <basic color="0" borderVisible="True" borderColor="4284900966" isAutoSize="True" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
+        <basic color="4278190080" borderVisible="True" borderColor="4284900966" isAutoSize="False" status="MsEnabled" opacity="1" isCommentCom="False" canMove="True" alias="" rotation="0"/>
         <states/>
         <verticalScrollbarShow>False</verticalScrollbarShow>
         <verticalScrollbarProgress>0</verticalScrollbarProgress>
@@ -345,22 +345,24 @@
         <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
         <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
           <link targetPageID="6A20BDE8-FF09-E711-B762-5CF9389DACA2" linkType="ltPageLink" isApplyIncludePage="False" title="Edit+Private+User">
-            <area shape="0" alt="" ID="{46EA6585-190A-E711-B762-5CF9389DACA2}" coords="(0,0,70,17)"/>
+            <area shape="0" alt="" ID="{D6BE8280-380A-E711-B762-5CF9389DACA2}" coords="(0,0,24,24)"/>
           </link>
         </links>
         <interactiveData>
           <entry title="">
-            <area shape="0" alt="" ID="{18EB6585-190A-E711-B762-5CF9389DACA2}" coords="(0,0,70,17)"/>
+            <area shape="0" alt="" ID="{A8BF8280-380A-E711-B762-5CF9389DACA2}" coords="(0,0,24,24)"/>
             <events title=""/>
           </entry>
         </interactiveData>
-        <textSet textColor="4278190335" textSize="14" lineSpacingMultiple="1" textAlign="HaLeft" textVAlign="VaTop" textWordWrap="True" lineSpacing="17" textStyles="[fsUnderline]" useDefaultTextSize="False">
-          <font family=".AppleSystemUIFont" displayName="" postScript="" weightStyle="" weight="0" isBold="False" isItalic="False"/>
-          <text>Edit+Profile</text>
-        </textSet>
-        <selectedIndex>-1</selectedIndex>
-        <selectedColor>4282501083</selectedColor>
-        <textPadding>0</textPadding>
+        <rotationAngle>TdZero</rotationAngle>
+        <icon>
+          <ID/>
+          <iconFontName>jdIonicons</iconFontName>
+          <iconCode>62334</iconCode>
+        </icon>
+        <URL>69A4D1E5CE13432C6A4F579026917C6A.svg</URL>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
       </controlProperties>
     </control>
   </controls>
